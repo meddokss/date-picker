@@ -1,0 +1,14 @@
+
+
+
+iron-icon {
+fill: rgba(0,0,0,0);
+stroke: currentcolor;
+}
+/*:host([pressed]) iron-icon {*/
+/*fill: currentcolor;*/
+/*}*/
+
+
+
+
